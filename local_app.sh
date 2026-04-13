@@ -2,6 +2,7 @@
 eval "$(conda shell.bash hook)"
 conda activate copaw
 
-pip install -e .
+#pip install -e .
 
-copaw app
+#qwenpaw init
+qwenpaw app
